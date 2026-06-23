@@ -11494,6 +11494,21 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   align-items: center !important;
   gap: 8px !important;
 }
+
+.nav-cta-container p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.nav-cta-container .zappy-search-container {
+  align-self: center !important;
+}
+
+.nav-cta-container {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

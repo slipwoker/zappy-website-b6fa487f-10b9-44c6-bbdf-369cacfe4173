@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-b6fa487f.zappy5.app
+https://example.com
 קבלו ירקות טריים היישר מהשדה עם שירות משלוחי חינם עד פתח הבית. חוויית הזמנה אישית באתר מותאם לצרכים שלכם — הזמינו עכשיו ותיהנו מאיכות ללא פשרות!
 
 ### תכונות
-https://-b6fa487f.zappy5.app/features
+https://example.com/features
 משלוח באותו יום, ממשק התאמה אישית וחוויית קנייה דיגיטלית חלקה. כל התכונות שהופכות את שירות הירקות שלנו למדויק, מהיר ומותאם למותג שלכם — בואו לראות איך זה עובד.
 
 ### אודות
-https://-b6fa487f.zappy5.app/about
+https://example.com/about
 גידולי קטיף נולדה מתוך אהבה לאדמה וללקוחותינו. אנחנו מגדלים, קוטפים ומשלחים ירקות טריים במסירות, עם דגש על שקיפות, איכות ושירות אישי שמחבר שדה לצלחת — הכירו אותנו מקרוב.
 
 ### צור קשר
-https://-b6fa487f.zappy5.app/contact
+https://example.com/contact
 רוצים ירקות טריים עוד היום? צרו קשר עכשיו וקבלו ייעוץ אישי, הצעת מחיר משתלמת ומשלוח חינם בהזמנה הראשונה. הצוות שלנו כאן כדי להפוך כל ארוחה לחגיגה של טריות — כתבו לנו!
 
 ### Products
-https://-b6fa487f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - גידולי קטיף
 
 ### Cart
-https://-b6fa487f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-b6fa487f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-b6fa487f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-b6fa487f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-b6fa487f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-b6fa487f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - גידולי קטיף
 
 ### Category
-https://-b6fa487f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - גידולי קטיף
 
 ### תודה על פנייתך
-https://-b6fa487f.zappy5.app/thank-you
+https://example.com/thank-you
 גידולי קטיף - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b6fa487f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b6fa487f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b6fa487f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Food & Grocery Delivery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-b6fa487f.zappy5.app/sitemap.xml
-- Robots: https://-b6fa487f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-b6fa487f.zappy5.app/llms-full.txt
-- Products (JSON): https://-b6fa487f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-b6fa487f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
